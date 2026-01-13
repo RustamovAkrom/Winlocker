@@ -208,3 +208,16 @@ Python Developer · GUI / Security Practice
 ## 📄 Лицензия
 
 MIT License (или любая другая по желанию)
+
+---
+
+⚠️ Security Notice
+
+This application runs in user space and does not replace
+Windows authentication mechanisms.
+
+Shutting down or restarting the computer will stop the application.
+For real security, always use:
+- Windows account password
+- BitLocker disk encryption
+- BIOS/UEFI password
