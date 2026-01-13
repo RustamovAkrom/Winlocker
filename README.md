@@ -133,7 +133,7 @@ pyinstaller --onefile --noconsole winlock.py
 ### Сборка с именем и иконкой (рекомендуется)
 
 ```bat
-pyinstaller --onefile --noconsole --name LockScreen --icon=output-0.ico winlock.py
+pyinstaller --onefile --noconsole --name LockScreen --icon=lock.ico winlock.py
 ```
 
 Результат:
